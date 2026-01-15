@@ -1,8 +1,8 @@
-# heyy, I’m Raphael Talon 👋
+# hellooooo, I’m Raphael Talon ⚽️ 🌊 🌆
 
-I’m a Computer Science student at Florida International University (GPA: 3.52) with a strong interest in mobile development, applied AI, and building systems that solve real-world problems. I enjoy working at the intersection of software engineering, specifically user experience
+I’m a Computer Science student at Florida International University (GPA: 3.52) with a strong interest in mobile development, applied AI, and building systems that solve real-world problems. I enjoy working at the intersection of software engineering, specifically user experience. Outside of work, I enjoy being active, going out to new places, playing soccer, and exploring different aspects like music, food, and culture. Fun fact, my favorite artist is Frank Ocean!!!
 
-I currently balance academic projects bringing both technical depth and strong communication skills from customer-facing roles.
+I currently balance academic projects, bringing both technical depth and strong communication skills from customer-facing roles.
 
 ---
 
